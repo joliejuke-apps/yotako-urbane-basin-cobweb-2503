@@ -1,0 +1,80 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style1 {
+  background-color: #01f;
+  border-left: .26666666666666666vw solid red;
+  border-right: .26666666666666666vw solid red;
+  border-top: .26666666666666666vw solid red;
+  border-bottom: .26666666666666666vw solid red;
+  display: flex;
+  margin-left: 5.333333333333334vw;
+  margin-top: 2.4630541871921183vh;
+  width: 80vw;
+  height: 80vw;
+  z-index: 0
+}
+.iphonexxs11pro1container0col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 32.266666666666666vw;
+  height: 14.933333333333334vw;
+  flex-direction: column
+}
+.style2 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 5.333333333333333vw;
+  margin-left: 0;
+  margin-top: 3.6vw;
+  z-index: 1
+}
+.style3 {
+  background-color: #fb0;
+  border-left: .5333333333333333vw solid #fb0;
+  border-right: .5333333333333333vw solid #fb0;
+  border-top: .5333333333333333vw solid #fb0;
+  border-bottom: .5333333333333333vw solid #fb0;
+  margin-left: 0;
+  margin-top: -3.6vw;
+  width: 29.866666666666667vw;
+  height: 0;
+  z-index: 2
+}
+.style4 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: 5.333333333333333vw;
+  margin-left: 0;
+  margin-top: 1.0666666666666667vw;
+  z-index: 3
+}
+.style5,
+.style6,
+.style7 {
+  background-color: #707070;
+  border-left: .26666666666666666vw solid #707070;
+  border-right: .26666666666666666vw solid #707070;
+  border-top: .26666666666666666vw solid #707070;
+  border-bottom: .26666666666666666vw solid #707070;
+  margin-left: 1.4666666666666666vw;
+  margin-top: 8vw;
+  width: 0;
+  height: 5.333333333333333vw;
+  z-index: 4
+}
+.style6,
+.style7 {
+  margin-left: 1.6vw;
+  z-index: 5
+}
+.style7 {
+  z-index: 6
+}
+.breakpoint-0 {
+  display: block
+}
